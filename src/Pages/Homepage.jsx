@@ -19,7 +19,7 @@ const Homepage = () => {
           </h1>
 
           <p className="max-w-xl text-justify break-words text-[12px] md:text-base font-medium leading-relaxed text-neutral-400 [word-spacing:4px] sm:py-4">
-            Transform your workflow with our platform designed for high
+            Transform your workflows with our platform designed for high
             performing teams. Ship faster, collaborate better, and boost scales.
          </p>
 
