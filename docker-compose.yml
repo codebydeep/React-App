@@ -1,0 +1,7 @@
+services:
+  frontend:
+    image: 3453458134/react-practice:latest
+    container_name: react-practice-container
+    ports: 
+      - "443:5173"
+    restart: always
