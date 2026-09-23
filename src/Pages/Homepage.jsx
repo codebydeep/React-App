@@ -24,7 +24,7 @@ const Homepage = () => {
          </p>
 
          <div className='flex gap-6 sm:gap-8 mt-4 md:mt-4'>
-            <Button className="bg-white text-black rounded-3xl hover:bg-transparent hover:border-[0.5px] hover:text-white sm:px-8 sm:py-5 text-[12px] sm:text-base px-6 cursor-pointer">Getting Started</Button>
+            <Button className="bg-white text-black rounded-3xl hover:bg-transparent hover:border-[0.5px] hover:text-white sm:px-8 sm:py-5 text-[12px] sm:text-base px-6 cursor-pointer">Get Started Now</Button>
             <Button className="rounded-3xl bg-transparent border-[0.5px] border-neutral-400 sm:px-8 sm:py-5 text-[12px] sm:text-base px-6 cursor-pointer">Watch Demo</Button>
          </div>
 
