@@ -15,7 +15,7 @@ const Homepage = () => {
           <span className="text-sm text-neutral-400">Frequent Authentication</span>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl text-center font-extrabold pt-6 [word-spacing:4px] relative inline-block overflow-hidden text-transparent bg-clip-text bg-gradient-to-r from-white/60 via-white to-white/50 animate-shimmer">
-            Build products that <br className='hidden md:block' /> users will really love
+            Ajay Kumar <br className='hidden md:block' /> CEO & Founder of Codentrix
           </h1>
 
           <p className="max-w-xl text-justify break-words text-[12px] md:text-base font-medium leading-relaxed text-neutral-400 [word-spacing:4px] sm:py-4">
