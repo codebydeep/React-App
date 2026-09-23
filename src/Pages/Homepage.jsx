@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import { Button } from "@/components/ui/button"
 import User from './User'
+import AddItem from './AddItem'
 
 const Homepage = () => {
   return (
@@ -30,6 +31,7 @@ const Homepage = () => {
 
            <div className='p-2 mt-8 border-[1px] border-neutral-400 rounded-2xl'>
             <User/>
+            <AddItem/>
            </div>
         </div>
 
